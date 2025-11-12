@@ -10,10 +10,10 @@
 
 Desenvolvedor Full Stack focado em criar aplicações robustas e escaláveis. Especializado em desenvolvimento backend com Java/Spring e frontend moderno com Angular.
 
-- 🔭 Atualmente trabalhando com **Spring Boot** e **Angular**
+- 🔭 Atualmente estudando com **Spring Boot** e **Angular**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 💼 Experiência em arquitetura de APIs RESTful
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
+- 📫 Como me encontrar: **[davibeckhauser@hotmail.com]**
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -22,7 +22,7 @@ Desenvolvedor Full Stack focado em criar aplicações robustas e escaláveis. Es
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Flyway_Migration](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,7 +35,6 @@ Desenvolvedor Full Stack focado em criar aplicações robustas e escaláveis. Es
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -90,8 +89,4 @@ Desenvolvedor Full Stack focado em criar aplicações robustas e escaláveis. Es
 
 <div align="center">
   
-### 💭 Frase Motivacional
-  
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default)
 
-</div>
