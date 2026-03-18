@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack focado em criar aplicações robustas e escaláveis. Especializado em desenvolvimento backend com Java/Spring e frontend moderno com Angular.
+- 💼 Desenvolvedor Estagiário na Trier Sistemas, desenvolvendo APIs e serviços backend com Java (Spring Boot) e Python (FastAPI)
 
 - 🔭 Atualmente estudando com **Spring Boot** e **Angular**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
