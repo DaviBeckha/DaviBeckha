@@ -21,7 +21,7 @@ Desenvolvedor Full Stack focado em criar aplicações robustas e escaláveis. Es
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-![Python](https://img.shields.io/badge/Python-E6DC1F#?style=for-the-badge&logo=Python&logoColor=White)
+![Python](https://img.shields.io/badge/Python-E6DC1F?style=for-the-badge&logo=Python&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
